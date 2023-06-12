@@ -31,3 +31,5 @@ In the case of the rich club and PCA analyses, we considered the initial data wi
 
 Finally, to perform the Principal Component Analysis (PCA), Matlab function pca.m was needed to obtain the principal components and the variance of each of them. In the Matlab file PCA.m all the code appears.
 
+
+
